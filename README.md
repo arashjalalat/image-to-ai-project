@@ -7,7 +7,7 @@ This project extracts text from an image with the Optical Character Recognition 
 ### Installation
 
 ```sh
-git clone git@github.com:codingforus/image-to-ai-project.git
+git clone git@github.com:arashjalalat/image-to-ai-project.git
 cd image-to-ai-project
 python3 -m venv env
 source env/bin/activate
